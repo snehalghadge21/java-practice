@@ -41,7 +41,7 @@ package collection;
 			System.out.println(al.size());
 			
 			System.out.println(al.get(0));
-			al.add(2,102);
+			al.add(5,102);
 			System.out.println(al.get(4));
 			
 			System.out.println(al);
